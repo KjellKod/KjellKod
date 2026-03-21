@@ -26,8 +26,8 @@ Source: [quest issue #53](https://github.com/KjellKod/quest/issues/53), [quest R
 
 ## Current Projects
 - **[Quest](https://github.com/KjellKod/quest)**, Multi-agent orchestration for software development: structured AI teamwork with checks, balances, dual reviews, and human gates in service of one principle: "Stop blaming the model. Fix the process."
-- **CandidTalentEdge** *[not yet released]*, Privacy-first candidate screening that elevates the hiring manager, not replaces them. Cuts through resume-writing noise to surface real candidate signals, strengths, gaps, and evidence, with every decision documented and auditable. AI as untrusted component; humans drive, amplified by agentic insight.
-- **Legion** *[not yet released]*, Transparent, adaptable orchestration framework in Rust. Every decision is traceable. Supports constellations from simple to complex for non-technical through technical users, production-quality, opinionated about good software from the start, with custom skills and coding culture built in.
+- **CandidTalentEdge** *[private beta release]*, Privacy-first candidate screening that elevates the hiring manager, not replaces them. Cuts through resume-writing noise to surface real candidate signals, strengths, gaps, and evidence, with every decision documented and auditable. AI as untrusted component; humans drive, amplified by agentic insight.
+- **Legion** *[pre-beta hardening]*, Transparent, adaptable orchestration framework in Rust. Every decision is traceable. Supports constellations from simple to complex for non-technical through technical users, production-quality, opinionated about good software from the start, with custom skills and coding culture built in.
 - **[g3log](https://github.com/KjellKod/g3log)**, Asynchronous, crash-safe C++14 logger (955 stars, 282 forks). Author and community maintainer.
 
 ## Notable Open Source
