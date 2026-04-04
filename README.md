@@ -33,7 +33,7 @@ Source: [quest issue #53](https://github.com/KjellKod/quest/issues/53), [quest R
 ### Private / Company / Not Yet Released
 - **CandidTalentEdge** *[private beta release]*, Privacy-first candidate screening that elevates the hiring manager, not replaces them. Cuts through resume-writing noise to surface real candidate signals, strengths, gaps, and evidence, with every decision documented and auditable. AI as untrusted component; humans drive, amplified by agentic insight.
 - **Legion** *[pre-beta hardening]*, Transparent, adaptable orchestration framework in Rust. Every decision is traceable. Supports constellations from simple to complex for non-technical through technical users, production-quality, opinionated about good software from the start, with custom skills and coding culture built in.
-- **Figma MCP**, React, Angular, Figma design, 360 roundtrip, including detecting diffs and auto-sync. Couple with [Quest](https://github.com/KjellKod/quest) and you got production quality code from Claude/Figma Desktop App -- repo. 
+- **Figma MCP**, React, Angular, Figma design, 360 roundtrip, including detecting diffs and auto-sync. Couple with [Quest](https://github.com/KjellKod/quest) and you got production quality code from Claude/Figma Desktop App --> repo. 
 - **Google Docs/Sheets**, full API implementations, coupled with skills and it's blazingly fast to work, read, analyze, export, compare. 
 
 
