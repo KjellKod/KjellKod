@@ -25,7 +25,7 @@ I'm working as CTO at Onfleet with a background in building mission-critical and
 Source: [quest issue #53](https://github.com/KjellKod/quest/issues/53), [quest README](https://github.com/KjellKod/quest/blob/main/README.md)
 
 ## Current Projects
-- **[Quest](https://github.com/KjellKod/quest)**, Multi-agent orchestration for software development: structured AI teamwork with checks, balances, dual reviews, and human gates in service of one principle: "Stop blaming the model. Fix the process."
+- **[Quest](https://github.com/KjellKod/quest)**, Multi-agent orchestration for software development: High quality, production standard agentic orchestration - structured AI teamwork with checks, balances, dual reviews, and human gates in service of one principle: "Stop blaming the model. Fix the process."
 - **[Snake](https://github.com/KjellKod/snake)** | [Play it!](https://kjellkod.github.io/snake/), Quest agentic orchestration made, for fun, the classic Snake game. Demo'd at the 2026 Miami Tech Summit. Play it straight from your phone or laptop and try not to get hooked.
 - **[doc2md](https://github.com/KjellKod/doc2md)** | [Use it live!](https://kjellkod.github.io/doc2md/), Browser-based document to Markdown converter. Client-side, private, no upload. Built for people entering AI-assisted workflows who need a frictionless way to turn existing documents into Markdown.
 - **[g3log](https://github.com/KjellKod/g3log)**, Asynchronous, crash-safe C++14 logger (955 stars, 282 forks). Author and community maintainer.
