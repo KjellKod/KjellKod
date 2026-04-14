@@ -11,7 +11,7 @@ _CTO / AI orchestration, Mission Critical, Safety Critical Systems. Background i
 ![Docker](https://img.shields.io/badge/Docker-containers-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ## About
-I'm working as CTO at Onfleet with a background in building mission-critical and safety-critical systems. I apply that same rigor to agentic engineering by treating both humans and models as fallible actors and designing explicit process, verification, and evidence loops. From crash-safe logging to AI orchestration, the through-line is consistent: create a system that can be trusted through independent verification, layered review, and human gates, not by hoping any single actor gets it right.
+I'm working as CTO at Onfleet with a background in building mission-critical and safety-critical systems. I apply that same rigor to agentic engineering. Trustworthy systems show explicit process, verification, and evidence loops. From crash-safe logging to AI orchestration, the through-line is consistent: create a system that can be trusted through independent verification, layered review, and human gates, not by hoping any single actor gets it right.
 
 ## Philosophy
 > "You should never trust a single actor. Not a human. Not a machine. You trust a system built on independent verification, layered review, and evidence. We trust repeatable processes backed by evidence"
