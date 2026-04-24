@@ -1,5 +1,5 @@
 # Hey, I'm Kjell
-_CTO / AI orchestration, Mission Critical, Safety Critical Systems. Background in C++, Python. Location: USA_
+_Engineer / AI orchestration, Mission Critical, Safety Critical Systems. Background in C++, Python. Location: USA_
 
 ## Tech Badges
 ![C++](https://img.shields.io/badge/C%2B%2B-C%2B%2B14-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -11,7 +11,7 @@ _CTO / AI orchestration, Mission Critical, Safety Critical Systems. Background i
 ![Docker](https://img.shields.io/badge/Docker-containers-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ## About
-I'm working as CTO at Onfleet with a background in building mission-critical and safety-critical systems. I apply that same rigor to agentic engineering. Trustworthy systems show explicit process, verification, and evidence loops. From crash-safe logging to AI orchestration, the through-line is consistent: create a system that can be trusted through independent verification, layered review, and human gates, not by hoping any single actor gets it right.
+I've a background in building mission-critical and safety-critical systems. I apply that same rigor to agentic engineering. Trustworthy systems show explicit process, verification, and evidence loops. From crash-safe logging to AI orchestration, the through-line is consistent: create a system that can be trusted through independent verification, layered review, and human gates, not by hoping any single actor gets it right.
 
 ## Philosophy
 > "You should never trust a single actor. Not a human. Not a machine. You trust a system built on independent verification, layered review, and evidence. We trust repeatable processes backed by evidence"
