@@ -31,6 +31,7 @@ Source: [quest issue #53](https://github.com/KjellKod/quest/issues/53), [quest R
   - Free: Core npm package converts a multitude of text and binary formats to markdown in less than 1 second. Reduces Codex/Claude token use and reasoning time with 50% (benchmarks in repo).  
   -  Free:  Privacy first - Browser use - Document to Markdown converter. Client-side, private, no upload. Built for people entering AI-assisted workflows who need a frictionless way to turn existing documents into Markdown.
   -  Free to evaluate, best price ever for continued use. Mac native, full powered Markdown converter and editor. 
+- **[RepoLens](https://github.com/KjellKod/RepoLens)**, License-disclosure orchestrator. Know exactly what open source you ship and what it obligates you to. Conducts best-in-class scanners across repositories, resolves ambiguity with evidence, flags policy risk, and produces Markdown, CSV, and `.docx` disclosures.
 - **[g3log](https://github.com/KjellKod/g3log)**, Asynchronous, crash-safe C++14 logger (955 stars, 282 forks). Author and community maintainer.
 
 ### Private / Company / Not Yet Released
@@ -49,6 +50,7 @@ Source: [quest issue #53](https://github.com/KjellKod/quest/issues/53), [quest R
 |---|---|---|---|---|
 | [quest](https://github.com/KjellKod/quest) | ![Stars](https://img.shields.io/github/stars/KjellKod/quest?style=flat) | ![Forks](https://img.shields.io/github/forks/KjellKod/quest?style=flat) | Python | Structured AI teamwork with checks and balances. |
 | [doc2md](https://github.com/KjellKod/doc2md) | ![Stars](https://img.shields.io/github/stars/KjellKod/doc2md?style=flat) | ![Forks](https://img.shields.io/github/forks/KjellKod/doc2md?style=flat) | JavaScript | Browser-based document to Markdown converter. Client-side, private, no upload. [Use it live!](https://kjellkod.github.io/doc2md/) |
+| [RepoLens](https://github.com/KjellKod/RepoLens) | ![Stars](https://img.shields.io/github/stars/KjellKod/RepoLens?style=flat) | ![Forks](https://img.shields.io/github/forks/KjellKod/RepoLens?style=flat) | Python | License-disclosure orchestrator that conducts scanners across repositories, resolves ambiguity with evidence, flags policy risk, and emits Markdown/CSV/.docx disclosures. |
 | [g3log](https://github.com/KjellKod/g3log) | ![Stars](https://img.shields.io/github/stars/KjellKod/g3log?style) | ![Forks](https://img.shields.io/github/forks/KjellKod/g3log?style=flat) | C++ | Asynchronous, crash-safe logger. C++14, cross-platform. |
 | [StopWatch](https://github.com/KjellKod/StopWatch) | ![Stars](https://img.shields.io/github/stars/KjellKod/StopWatch?style=flat) | ![Forks](https://img.shields.io/github/forks/KjellKod/StopWatch?style=flat) | C++ | Timing utility built on `std::chrono`. |
 | [g3sinks](https://github.com/KjellKod/g3sinks) | ![Stars](https://img.shields.io/github/stars/KjellKod/g3sinks?style=flat) | ![Forks](https://img.shields.io/github/forks/KjellKod/g3sinks?style=flat) | C++ | Ready-to-use sink integrations for g3log. |
