@@ -1,0 +1,19 @@
+README.md
+  s_76c48b8cc6fa04::t_35eb686aba0724 34
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "69a1385acd8bbb2557fec9b7777bcd6543062a38",
+  "prompts": {},
+  "sessions": {
+    "s_76c48b8cc6fa04": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3d5421c4-06e8-47fa-8609-bc850cd8b831",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "KjellKod <kjell.hedstrom@gmail.com>"
+    }
+  }
+}
