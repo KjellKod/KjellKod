@@ -31,17 +31,26 @@ Source: [quest issue #53](https://github.com/KjellKod/quest/issues/53), [quest R
   - Free: Core npm package converts a multitude of text and binary formats to markdown in less than 1 second. Reduces Codex/Claude token use and reasoning time with 50% (benchmarks in repo).  
   -  Free:  Privacy first - Browser use - Document to Markdown converter. Client-side, private, no upload. Built for people entering AI-assisted workflows who need a frictionless way to turn existing documents into Markdown.
   -  Free to evaluate, best price ever for continued use. Mac native, full powered Markdown converter and editor. 
-- **[sketch2md](https://sketch2md.dev)** | [Use it live!](https://sketch2md.dev), Free, browser-based ASCII wireframe editor for AI-assisted coding. Sketch UI with 20+ components, export as Markdown, and paste straight into Claude Code or Cursor, AI reads wireframes faster than prose. No account, no install, works offline. Forked from the MIT-licensed [Mockdown](https://sketch2md.dev/about) and rebuilt with Quest.
-  <img width="1536" height="1024" alt="sketch2md_desktop_promo" src="https://github.com/user-attachments/assets/0715d93f-ea26-4ab7-a3e6-27af2e18e58d" />
 
 - **[RepoLens](https://github.com/KjellKod/RepoLens)**, License-disclosure orchestrator. Know exactly what open source you ship and what it obligates you to. Conducts best-in-class scanners across repositories, resolves ambiguity with evidence, flags policy risk, and produces Markdown, CSV, and `.docx` disclosures.
 - **[g3log](https://github.com/KjellKod/g3log)**, Asynchronous, crash-safe C++14 logger (955 stars, 282 forks). Author and community maintainer.
 
-### Private || Company IP
-- **Diffly** [ongoing hardening, pre release]. The best and most intuitive diff tool you ever used. Frustration with heavy IDEs, replaces heavy wielding, poor maintained and aging tools with cryptic configurations. Built to be better than the rest and pain-free to use.  Free for evaluation and seriously dirt cheap for year long license(s). Aimed to replace both free and too expensive commercial tools. Agentic flows  integrations for branch and worktree collision handling and just everyday use cases.  
+### Private || Released
+
+- **[Snip](https://snip.candidtalentedge.com/)** [released]  Get more context from the meeting links you already share. Snip turns a Google Meet, Zoom, or shared-tool URL into an expiring link. Review IP-based location, recognized Tor usage, network, and browser details when someone uses it. Collect IP geolocation, imperfect as it is it's still useful. Add custom questions if you want to build a better understanding on who you are meeting with. 
+Try it free during early access: https://snip.candidtalentedge.com/
+<img width="627" height="627" alt="snip2" src="https://github.com/user-attachments/assets/697420dd-3a4f-4a6d-aa61-03f0095a7dec" />
+
+
 - **[CandidTalentEdge](https://candidtalentedge.com/)**  Privacy-first candidate screening that elevates the hiring manager, not replaces them. Cuts through resume-writing noise to surface real candidate signals, strengths, gaps, and evidence, with every decision documented and auditable. AI as untrusted component; humans drive, amplified by agentic insight.
 <img width="1536" height="1024" alt="candidtalentedge-promo-landscape" src="https://github.com/user-attachments/assets/f09126a5-b63e-4de4-81d8-e2287e51ad61" />
 
+- **[sketch2md](https://sketch2md.dev)** | [Use it live!](https://sketch2md.dev), Free, browser-based ASCII wireframe editor for AI-assisted coding. Sketch UI with 20+ components, export as Markdown, and paste straight into Claude Code or Cursor, AI reads wireframes faster than prose. No account, no install, works offline. Forked from the MIT-licensed [Mockdown](https://sketch2md.dev/about) and rebuilt with Quest.
+  <img width="1536" height="1024" alt="sketch2md_desktop_promo" src="https://github.com/user-attachments/assets/0715d93f-ea26-4ab7-a3e6-27af2e18e58d" />
+
+
+### Private || Not Available to the Public
+- **Diffly** [ongoing hardening, pre release]. The best and most intuitive diff tool you ever used. Frustration with heavy IDEs, replaces heavy wielding, poor maintained and aging tools with cryptic configurations. Built to be better than the rest and pain-free to use.  Free for evaluation and seriously dirt cheap for year long license(s). Aimed to replace both free and too expensive commercial tools. Agentic flows  integrations for branch and worktree collision handling and just everyday use cases.  
 
 
 - **Legion** *[pre-beta hardening]*, Transparent, adaptable orchestration framework in Rust. Every decision is traceable. Supports constellations from simple to complex for non-technical through technical users, production-quality, opinionated about good software from the start, with custom skills and coding culture built in.
