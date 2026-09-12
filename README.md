@@ -29,8 +29,7 @@ Source: [quest issue #53](https://github.com/KjellKod/quest/issues/53), [quest R
 - **[Snake](https://github.com/KjellKod/snake)** | [Play it!](https://kjellkod.github.io/snake/), Quest agentic orchestration made, for fun, the classic Snake game. Demo'd at the 2026 Miami Tech Summit. Play it straight from your phone or laptop and try not to get hooked.
 - **[doc2md](https://github.com/KjellKod/doc2md)** | [Use it live!](https://kjellkod.github.io/doc2md/), 3x document converter.
   - Free: Core npm package converts a multitude of text and binary formats to markdown in less than 1 second. Reduces Codex/Claude token use and reasoning time with 50% (benchmarks in repo).  
-  -  Free:  Privacy first - Browser use - Document to Markdown converter. Client-side, private, no upload. Built for people entering AI-assisted workflows who need a frictionless way to turn existing documents into Markdown.
-  -  Free to evaluate, best price ever for continued use. Mac native, full powered Markdown converter and editor. 
+  - Privacy first. Edit or convert to Markdown, without leaving the browser or the Apple app. [doc2md](https://kjellkod.github.io/doc2md/) turns documents into clean Markdown, ready for AI tools and easier to edit, search, and reuse.
 
 <img width="1536" height="1024" alt="doc2md_presentation" src="https://github.com/user-attachments/assets/9de2dee6-1a52-4e2c-a03f-d8115cbb8053" />
 
