@@ -36,7 +36,7 @@ Source: [quest issue #53](https://github.com/KjellKod/quest/issues/53), [quest R
 - **[RepoLens](https://github.com/KjellKod/RepoLens)**, License-disclosure orchestrator. Know exactly what open source you ship and what it obligates you to. Conducts best-in-class scanners across repositories, resolves ambiguity with evidence, flags policy risk, and produces Markdown, CSV, and `.docx` disclosures.
 - **[g3log](https://github.com/KjellKod/g3log)**, Asynchronous, crash-safe C++14 logger (955 stars, 282 forks). Author and community maintainer.
 
-### Private || Released
+## Private || Released
 
 - **[Snip](https://snip.candidtalentedge.com/)** [released]  Get more context from the meeting links you already share. Snip turns a Google Meet, Zoom, or shared-tool URL into an expiring link. Review IP-based location, recognized Tor usage, network, and browser details when someone uses it. Collect IP geolocation, imperfect as it is it's still useful. Add custom questions if you want to build a better understanding on who you are meeting with. 
 Try it free during early access: https://snip.candidtalentedge.com/
@@ -50,7 +50,7 @@ Try it free during early access: https://snip.candidtalentedge.com/
   <img width="1536" height="1024" alt="sketch2md_desktop_promo" src="https://github.com/user-attachments/assets/0715d93f-ea26-4ab7-a3e6-27af2e18e58d" />
 
 
-### Private || Not Available to the Public
+## Private || Not Available to the Public
 - **Diffly** [ongoing hardening, pre release]. The best and most intuitive diff tool you ever used. Frustration with heavy IDEs, replaces heavy wielding, poor maintained and aging tools with cryptic configurations. Built to be better than the rest and pain-free to use.  Free for evaluation and seriously dirt cheap for year long license(s). Aimed to replace both free and too expensive commercial tools. Agentic flows  integrations for branch and worktree collision handling and just everyday use cases.  
 
 
@@ -62,7 +62,7 @@ Try it free during early access: https://snip.candidtalentedge.com/
 - **Datadog MCP** *[private release]*, not needing all bells and whistles, frustration by Datadog _"preview now but later you have to pay extra to use it"_. Tailored for our use cases. Now 50% faster than the official MCP, specialized beats company world-generic! 
 
 
-## Notable Open Source
+# Notable Open Source
 | Repo | Stars | Forks | Language | Description |
 |---|---|---|---|---|
 | [quest](https://github.com/KjellKod/quest) | ![Stars](https://img.shields.io/github/stars/KjellKod/quest?style=flat) | ![Forks](https://img.shields.io/github/forks/KjellKod/quest?style=flat) | Python | Structured AI teamwork with checks and balances. |
