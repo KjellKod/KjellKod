@@ -32,6 +32,8 @@ Source: [quest issue #53](https://github.com/KjellKod/quest/issues/53), [quest R
   -  Free:  Privacy first - Browser use - Document to Markdown converter. Client-side, private, no upload. Built for people entering AI-assisted workflows who need a frictionless way to turn existing documents into Markdown.
   -  Free to evaluate, best price ever for continued use. Mac native, full powered Markdown converter and editor. 
 
+<img width="1536" height="1024" alt="doc2md_presentation" src="https://github.com/user-attachments/assets/9de2dee6-1a52-4e2c-a03f-d8115cbb8053" />
+
 - **[RepoLens](https://github.com/KjellKod/RepoLens)**, License-disclosure orchestrator. Know exactly what open source you ship and what it obligates you to. Conducts best-in-class scanners across repositories, resolves ambiguity with evidence, flags policy risk, and produces Markdown, CSV, and `.docx` disclosures.
 - **[g3log](https://github.com/KjellKod/g3log)**, Asynchronous, crash-safe C++14 logger (955 stars, 282 forks). Author and community maintainer.
 
