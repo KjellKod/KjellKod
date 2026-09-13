@@ -36,6 +36,12 @@ Source: [quest issue #53](https://github.com/KjellKod/quest/issues/53), [quest R
 - **[RepoLens](https://github.com/KjellKod/RepoLens)**, License-disclosure orchestrator. Know exactly what open source you ship and what it obligates you to. Conducts best-in-class scanners across repositories, resolves ambiguity with evidence, flags policy risk, and produces Markdown, CSV, and `.docx` disclosures.
 - **[g3log](https://github.com/KjellKod/g3log)**, Asynchronous, crash-safe C++14 logger (955 stars, 282 forks). Author and community maintainer.
 
+
+- **[dicom-usb-extract](https://kjellkod.github.io/dicom-usb-extract/)**  Point Image Extract at any folder, USB drive, or phone download folder and it instantly finds the pictures inside for easy preview and ZIP export. It started as a way to rescue X-rays from a medical USB, but it’s really just a dead-simple image finder for anyone who doesn’t want to write a script.
+<img width="1536" height="1024" alt="dicom-usb-extract-presentation" src="https://github.com/user-attachments/assets/8992b2ac-cd5e-41a4-aaba-e1a0ce8b1ecb" />
+
+
+
 ## Private || Released
 
 - **[Snip](https://snip.candidtalentedge.com/)** [released]  Get more context from the meeting links you already share. Snip turns a Google Meet, Zoom, or shared-tool URL into an expiring link. Review IP-based location, recognized Tor usage, network, and browser details when someone uses it. Collect IP geolocation, imperfect as it is it's still useful. Add custom questions if you want to build a better understanding on who you are meeting with. 
