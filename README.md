@@ -1,5 +1,5 @@
 # Hey, I'm Kjell
-_Engineer / AI orchestration, Mission Critical, Safety Critical Systems. Background in C++, Python. Location: USA_
+_Engineer / AI orchestration, Mission Critical, Safety Critical Systems. Location: USA_
 
 ## Tech Badges
 ![C++](https://img.shields.io/badge/C%2B%2B-C%2B%2B14-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
